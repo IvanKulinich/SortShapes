@@ -1,0 +1,11 @@
+C:\Users\IVAN\source\repos\SortShapes\SortShapes\bin\Debug\netcoreapp3.0\SortShapes.exe
+C:\Users\IVAN\source\repos\SortShapes\SortShapes\bin\Debug\netcoreapp3.0\SortShapes.deps.json
+C:\Users\IVAN\source\repos\SortShapes\SortShapes\bin\Debug\netcoreapp3.0\SortShapes.runtimeconfig.json
+C:\Users\IVAN\source\repos\SortShapes\SortShapes\bin\Debug\netcoreapp3.0\SortShapes.runtimeconfig.dev.json
+C:\Users\IVAN\source\repos\SortShapes\SortShapes\bin\Debug\netcoreapp3.0\SortShapes.dll
+C:\Users\IVAN\source\repos\SortShapes\SortShapes\bin\Debug\netcoreapp3.0\SortShapes.pdb
+C:\Users\IVAN\source\repos\SortShapes\SortShapes\obj\Debug\netcoreapp3.0\SortShapes.csprojAssemblyReference.cache
+C:\Users\IVAN\source\repos\SortShapes\SortShapes\obj\Debug\netcoreapp3.0\SortShapes.AssemblyInfoInputs.cache
+C:\Users\IVAN\source\repos\SortShapes\SortShapes\obj\Debug\netcoreapp3.0\SortShapes.AssemblyInfo.cs
+C:\Users\IVAN\source\repos\SortShapes\SortShapes\obj\Debug\netcoreapp3.0\SortShapes.dll
+C:\Users\IVAN\source\repos\SortShapes\SortShapes\obj\Debug\netcoreapp3.0\SortShapes.pdb
